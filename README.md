@@ -1,5 +1,7 @@
 # who_are_YOU-
 TESTS if YOU are a KID TEENAGER OF PARENT
+
+```python
 your_age=
 
 if your_age<5 :
@@ -12,3 +14,4 @@ elif your_age<60:
   print("your a parent")
 else:
   print("your a old man or woman")
+```
